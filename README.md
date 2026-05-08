@@ -55,7 +55,7 @@ Clique no botão abaixo e execute as células em ordem:
 
 **Andrey Paes Leme Senna Leal**
 
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
+- GitHub: [seu-usuario](https://github.com/andreysenna)
 - LinkedIn: [linkedin.com/in/andrey-senna-425b25366](https://www.linkedin.com/in/andrey-senna-425b25366)
 
 ---
